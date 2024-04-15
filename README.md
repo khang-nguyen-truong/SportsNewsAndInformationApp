@@ -8,4 +8,4 @@
 <img src="screenshots/event_add_dialog.png"> </br>
 <img src="screenshots/history_tab.png"> </br>
 <img src="screenshots/history_add_dialog.png"> </br>
-<img src="screenshots/about_me.png">
+<img src="screenshots/about_me_tab.png">
