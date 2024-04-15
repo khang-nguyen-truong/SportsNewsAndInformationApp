@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Sports News And Information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="tabSports">Sport</string>
+        <string name="initialSportType1">Measure</string>
+        <string name="initialSportName1">Cycling</string>
+        <string name="initialSportInstruction1">“Measure” sports are ones where the goal is to min/max a certain value. The most common measure sports are races. You win a measured sport by running the fastest, lifting the most, throwing the farthest, etc. The objective is to get the record, and there is no “best” performance or ceiling other than the current world record.</string>
+
+        <string name="initialSportType2">Precision</string>
+        <string name="initialSportName2">Golf</string>
+        <string name="initialSportInstruction2">Precision sports are like Measured sports, but with the goal of accuracy. The goal is to hit a target, not a min/max with no bound. You win a precision sport by being the most precise with your movement.</string>
+
+        <string name="initialSportType3">Spectacle</string>
+        <string name="initialSportName3">Gymnastics</string>
+        <string name="initialSportInstruction3">Spectacle sports are subjectively judged and aesthetics matter. They often have panels of judges.</string>
+
+        <string name="initialSportType4">Combat</string>
+        <string name="initialSportName4">Fencing</string>
+        <string name="initialSportInstruction4">Combat sports encompass most martial arts or fighting sports, where you win when the other person loses. They involve some direct physical strength contest or grappling, so fencing is a combat sport but tennis is not. These are often 1-v-1 sports, except maybe tug-of-war.</string>
+
+        <string name="initialSportType5">Play</string>
+        <string name="initialSportName5">Baseball</string>
+        <string name="initialSportInstruction5">Play is the leftover, catch-all category which encompasses all sports that don’t fit the other definitions. The top 9 most popular sports in the world are all Play sports, and they are perhaps the most natural expression of “play” even as kids. You can complete the sentence “I play ___” with any Play sport.</string>
+
+        <string name="fabAddSportDesc">Add Sport</string>
+        <string-array name="categories_array">
+            <item>Measure</item>
+            <item>Precision</item>
+            <item>Spectacle</item>
+            <item>Combat</item>
+            <item>Play</item>
+        </string-array>
+        <string name="editTextHintSportName">Sport Name</string>
+        <string name="editTextHintSportInstruction">Instruction</string>
+    <string name="tabNews">News</string>
+        <string name="initialNewsImgUrl1">https://images.tennis.com/image/private/t_16-9_1920_2x/f_auto/tenniscom-prd/qpsg92ecznzjlhbztkag.jpg</string>
+        <string name="initialNewsTitle1">Novak Djokovic passes Nadal for most Masters 1000 semifinals with latest win in Monte Carlo</string>
+        <string name="initialNewsDesc1">The world No. 1 defeated Alex de Minaur, 7–5, 6–4, to reach the incredible 77th Masters 1000 semifinal of his career.</string>
+
+        <string name="initialNewsImgUrl2">https://a4.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2024%2F0414%2Fdm_240414_Tiger_handshake_with_Verne%2Fdm_240414_Tiger_handshake_with_Verne.jpg</string>
+        <string name="initialNewsTitle2">Tiger Woods shares moment with retiring Verne Lundquist at Masters</string>
+        <string name="initialNewsDesc2">At the 16th hole, where Woods made a memorable chip-in at the 2005 Masters on the way to his fourth of five green jackets, the golfer stopped to shake Lundquist’s hand and exchange a few words after tapping in for par.</string>
+
+        <string name="initialNewsImgUrl3">https://swimswam.com/wp-content/uploads/2024/03/Gretchen-Walsh-By-Jack-Spitser-DSC08271-scaled.jpg</string>
+        <string name="initialNewsTitle3">Gretchen Walsh, Chris Guiliano Named ACC Swimmers of the Year</string>
+        <string name="initialNewsDesc3">Notre Dame’s Chris Guiliano and Virginia’s Gretchen Walsh were named the 2024 Atlantic Coast Conference Men’s and Women’s Swimmers of the Year and highlight the ACC’s yearly award winners for the 2023-24 swimming and diving season.</string>
+
+        <string name="fabAddNewsDesc">Add News</string>
+        <string name="editTextHintNewsImgUrl">Image URL</string>
+        <string name="editTextHintNewsTitle">News Title</string>
+        <string name="editTextHintNewsDesc">Description</string>
+
+    <string name="tabAthletes">Athletes</string>
+        <string name="initialAthleteName1">Lionel Messi</string>
+        <string name="initialAthleteSport1">Soccer</string>
+        <string name="initialAthleteCountry1">Argentina</string>
+        <string name="initialAthletePerformance1">Scored over 800 senior career goals for club and country</string>
+        <string name="initialAthleteMedal1">European Golden Shoes</string>
+        <string name="initialAthleteFacts1">Greatest player of all time</string>
+
+        <string name="initialAthleteName2">Usain Bolt</string>
+        <string name="initialAthleteSport2">Athletics</string>
+        <string name="initialAthleteCountry2">Jamaica</string>
+        <string name="initialAthletePerformance2">World record in 100m and 200m</string>
+        <string name="initialAthleteMedal2">Gold</string>
+        <string name="initialAthleteFacts2">Fastest man alive</string>
+
+        <string name="fabAddAthleteDesc">Add Athlete</string>
+        <string name="editTextHintAthleteName">Athlete Name</string>
+        <string name="editTextHintAthleteSport">Sport Name</string>
+        <string name="editTextHintAthleteCountry">Country Name</string>
+        <string name="editTextHintAthletePerformance">Best Performance</string>
+        <string name="editTextHintAthleteMedal">Medal</string>
+        <string name="editTextHintAthleteFacts">Facts</string>
+
+    <string name="tabEvents">Events</string>
+        <string name="initialEventName1">FIFA World Cup</string>
+        <string name="initialEventDesc1">The world championship for national football teams organized by FIFA</string>
+        <string name="initialEventDate1">2026–6–11</string>
+
+        <string name="initialEventName2">Olympic Games</string>
+        <string name="initialEventDesc2">International sporting events featuring summer and winter sports competitions</string>
+        <string name="initialEventDate2">2024–7–26</string>
+
+        <string name="fabAddEventDesc">Add Event</string>
+        <string name="editTextHintEventName">Event Name</string>
+        <string name="editTextHintEventDesc">Description</string>
+        <string name="editTextHintEventDate">Date</string>
+
+    <string name="tabHistoricalArchives">Historical Archives</string>
+        <string name="initialHistoricalArchivesName1">NASCAR Cup Series</string>
+        <string name="initialHistoricalArchivesDesc1">The top racing series of the National Association for Stock Car Auto Racing (NASCAR)</string>
+        <string name="initialHistoricalArchivesDate1">1949–6–19</string>
+
+        <string name="initialHistoricalArchivesName2">Super Bowl</string>
+        <string name="initialHistoricalArchivesDesc2">The annual league championship game of the National Football League (NFL) of the United States</string>
+        <string name="initialHistoricalArchivesDate2">1967–1–15</string>
+
+        <string name="fabAddHistoricalArchiveDesc">Add Historical Archive</string>
+        <string name="editTextHintHistoricalArchivesName">Historical Archive Name</string>
+        <string name="editTextHintHistoricalArchivesDesc">Description</string>
+        <string name="editTextHintHistoricalArchivesDate">Date</string>
+
+    <string name="tabAboutMe">About Me</string>
+    <string name="authorName"> Nguyen Khang Truong</string>
+    <string name="authorDetails"> About me</string>
+
+    <string name="dialogPosButAdd">Add</string>
+    <string name="dialogNegButAdd">Cancel</string>
+
+    <string name="botNavNews">News</string>
+    <string name="botNavEvents">Events</string>
+    <string name="botNavHistoricalArchives">Historical Archives</string>
+</resources>
